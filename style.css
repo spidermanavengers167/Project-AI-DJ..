@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+    }
+    .note{
+        color: black;
+        width: 100%;
+    }
+
+    .play_button{
+        width: 130px;
+        font-size: 25px;
+    }
